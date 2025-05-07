@@ -28,4 +28,4 @@ go build -o main
 ## Tech Stack
 
 - **Language:** Go
-- **API:** [Francfurter API](https://frankfurter.dev/) for fetching the latest currncy rates
+- **API:** [Francfurter API](https://frankfurter.dev/) for fetching the latest currency rates
